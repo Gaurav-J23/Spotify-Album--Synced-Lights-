@@ -41,18 +41,3 @@ Start the server:
 node auth-and-sync.js
 Open http://127.0.0.1:8080/login in your browser to authorize with Spotify.
 
-Demo
-Lights automatically sync to Spotify playback, reflecting album art colors in real-time.
-(GIF or screenshot demo recommended here)
-
-License
-This project is licensed under the MIT License.
-
-
-
-
-
-
-
-
-Ask ChatGPT
